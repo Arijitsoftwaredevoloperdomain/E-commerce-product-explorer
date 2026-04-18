@@ -1,6 +1,10 @@
 # React + Vite
+# 🛒 E-Commerce Product Explorer (React.js)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **E-commerce Product Explorer Web App** built using React.js.  
+It allows users to browse products, filter categories, view product details, and manage a shopping cart.
 
-Currently, two official plugins are available:
+
+
+
 https://github.com/Arijitsoftwaredevoloperdomain
