@@ -5,7 +5,7 @@ const Footer = () => {
     <div>
       <footer className='bg-gray-950 text-gray-500 text-center p-6 border-t border-gray-800 mt-8'>
   <p className='text-sm'>
-    &copy; 2025 WDMTech Labs. All Rights Reserved. | {" "} 
+    &copy;  Mera Pehla Store. All rights reserved. | {" "} 
     <span className='text-orange-400 font-semibold'>
     Advanced E-commerce Simulation.
 
